@@ -15,7 +15,9 @@ Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo a
 7
 8
 ``
+
 ``DIFERENCA = -26``
+
 
 ``
 0
@@ -23,7 +25,9 @@ Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo a
 7
 8
 ``
+
 ``DIFERENCA = -56``
+
 
 ``
 5
@@ -31,4 +35,5 @@ Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo a
 -7
 8
 ``
+
 ``DIFERENCA = 86``

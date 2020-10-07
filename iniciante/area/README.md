@@ -15,15 +15,26 @@ O arquivo de saída deverá conter 5 linhas de dados. Cada linha corresponde a u
 ### Exemplos de Entrada	Exemplos de Saída
 
 ``3.0 4.0 5.2``
+
 ``TRIANGULO: 7.800``
+
 ``CIRCULO: 84.949``
+
 ``TRAPEZIO: 18.200``
+
 ``QUADRADO: 16.000``
+
 ``RETANGULO: 12.000``
 
+
 ``12.7 10.4 15.2``
+
 ``TRIANGULO: 96.520``
+
 ``CIRCULO: 725.833``
-``TRAPEZIO: 175.560`
+
+``TRAPEZIO: 175.560``
+
 ``QUADRADO: 108.160``
+
 ``RETANGULO: 132.080``

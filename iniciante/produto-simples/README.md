@@ -13,10 +13,13 @@ Imprima a mensagem "PROD" e a variável PROD conforme exemplo abaixo, com um esp
 3
 9
 ``
+
 ``PROD = 27``
+
 
 ``
 -30
 10
 ``
+
 ``PROD = -300``

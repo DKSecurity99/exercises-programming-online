@@ -8,16 +8,20 @@ O arquivo de entrada contém um texto (primeiro nome do vendedor) e 2 valores de
 Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
 
 ### Exemplos de Entrada	Exemplos de Saída
+
 ``
 JOAO
 500.00
 1230.30
 ``
+
 ``TOTAL = R$ 684.54``
+
 
 ``
 PEDRO
 700.00
 0.00
 ``
+
 ``TOTAL = R$ 700.00``

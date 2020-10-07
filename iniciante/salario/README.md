@@ -14,13 +14,18 @@ Imprima o número e o salário do funcionário, conforme exemplo fornecido, com 
 100
 5.50
 ``
+
 ``NUMBER = 25``
+
 ``SALARY = U$ 550.00``
+
 
 ``
 1
 200
 20.50
 ``
+
 ``NUMBER = 1``
+
 ``SALARY = U$ 4100.00``

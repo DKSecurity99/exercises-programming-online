@@ -13,10 +13,12 @@ A saída deverá ser uma mensagem conforme o exemplo fornecido abaixo, lembrando
 12 1 5.30
 16 2 5.10
 ``
+
 ``VALOR A PAGAR: R$ 15.50``
 
 ``
 13 2 15.30
 161 4 5.20
 ``
+
 ``VALOR A PAGAR: R$ 51.40``

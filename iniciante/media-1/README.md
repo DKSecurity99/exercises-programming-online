@@ -13,10 +13,13 @@ Imprima a mensagem "MEDIA" e a m√©dia do aluno conforme exemplo abaixo, com 5 d√
 5.0
 7.1
 ``
+
 ``MEDIA = 6.43182``
+
 
 ``
 0.0
 7.1
 ``
+
 ``MEDIA = 4.84091``
