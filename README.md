@@ -8,7 +8,7 @@ de problemas computacionais.
 ## Meu perfil nos sites de desafios usados
 
 [Uri online judge](https://www.urionlinejudge.com.br/judge/pt/profile/490691)
-
+[Hacker Rank](https://www.hackerrank.com/dksorteio?hr_r=1)
 ## Influência
 
 Deicidr começa meus estudos na área acadêmica da programação por gostar da adrenalina 
