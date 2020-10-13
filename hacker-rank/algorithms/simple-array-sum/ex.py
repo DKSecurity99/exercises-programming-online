@@ -1,8 +1,8 @@
 def sum(matriz):
-    som = 0;
+    sumValue = 0;
     if len(matriz) > 0 and matriz[-1] <= 1000:
         for item in matriz:
-            som += item
-    return som
+            sumValue += item
+    return sumValue
 
-print(soma([1, 2, 3]));
+print(sum([1, 2, 3]));

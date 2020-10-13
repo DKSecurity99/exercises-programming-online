@@ -1,7 +1,5 @@
 def plusMinus(arr):
-    positivos = 0
-    negativos = 0
-    zeros = 0
+    positivos = negativos = zeros = 0
     
     if len(arr) > 0 and len(arr) <= 100:
         for number in arr:
