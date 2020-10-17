@@ -11,6 +11,11 @@ de problemas computacionais.
 
 [Hacker Rank](https://www.hackerrank.com/dksorteio?hr_r=1)
 
+## Quantidades de exercicios resolvidos
+
+* [16] no [Uri online judge](https://www.urionlinejudge.com.br/judge/pt/profile/490691)
+* [10] no [Hacker Rank](https://www.hackerrank.com/dksorteio?hr_r=1)
+
 ## Influência
 
 Deicidr começa meus estudos na área acadêmica da programação por gostar da adrenalina 
@@ -22,6 +27,4 @@ um programador acima da média graças a longas horas de estudo,porquê apenas c
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-
 
