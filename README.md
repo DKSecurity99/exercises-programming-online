@@ -14,7 +14,7 @@ de problemas computacionais.
 ## Quantidades de exercicios resolvidos
 
 * [16] no [Uri online judge](https://www.urionlinejudge.com.br/judge/pt/profile/490691)
-* [10] no [Hacker Rank](https://www.hackerrank.com/dksorteio?hr_r=1)
+* [11] no [Hacker Rank](https://www.hackerrank.com/dksorteio?hr_r=1)
 
 ## Influência
 
